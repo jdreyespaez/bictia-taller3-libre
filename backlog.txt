@@ -6,5 +6,5 @@ Las tareas a hacer serán:
     1.3. Se ignorarán los colores que están en el <span class="text-primary"> del título en la sección About
     1.4. En la foto de perfil se incluirá un zoomIn-Out mediante el hover del cursor
 2. Permitir al visitante la forma de contactar a Clarence
-    2.1. Conectar con una base de datos en Mailchimp, para recolectar la información ahí
-3. Crear una sección /now como la propuesta por https://sivers.org/now 
+    2.1. Conectar con una base de datos en Mailchimp, para recolectar la información
+    2.2. Se harán dos inputs (nombre y correo) para conectar con Mailchimp
